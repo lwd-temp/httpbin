@@ -1,0 +1,10 @@
+Flask
+MarkupSafe
+decorator
+itsdangerous
+six
+brotlipy
+raven[flask]
+werkzeug<2.1.0
+gevent
+flasgger
